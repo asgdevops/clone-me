@@ -2,11 +2,13 @@
 
 The purpose of this repository is to practice the `git clone` command.
 
-## :paw_prints: Steps
+# :paw_prints: Steps
 
 1. Go to the [asgdevops/clone-me](https://github.com/asgdevops/clone-me) [github](https://github.com) repository.
 
 2. Take the git repository name from the SSH code `git@github.com:asgdevops/clone-me.git` tab.
+
+    ![clone](images/github_clone.png)
 
 3. In your local machine open a new ssh terminal and go to the directory where you would like to drop the cloned repository.
 
@@ -32,3 +34,8 @@ The purpose of this repository is to practice the `git clone` command.
     ```bash
     git remote -v
     ```
+
+<br/>
+
+# :books: References
+- [**Git clone** command official documentation](https://git-scm.com/docs/git-clone)
